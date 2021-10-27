@@ -23,4 +23,4 @@
     <a href="https://www.linkedin.com/in/jhone-mike-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
-  <div><a href="/users/JhoneMike/contributions?to=2021-12-31"></a></div>
+  <div>href="/users/JhoneMike/contributions?to=2021-12-31"</div>
