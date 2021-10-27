@@ -22,5 +22,5 @@
 <div>
     <a href="https://www.linkedin.com/in/jhone-mike-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
-(https://github.com/JhoneMike/contributions?to=2021-12-31)
+ 
+  <div><a href="https://github.com/JhoneMike?tab=overview&from=2021-10-01&to=2021-10-27"</div>
