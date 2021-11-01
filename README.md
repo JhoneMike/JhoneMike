@@ -1,6 +1,6 @@
 ### Olá, eu sou o Jhone Mike
 
-- 🌱 Estudando Front-end HTML|CSS|JavaScript.
+- 🌱 Desenvolvedor Front-end HTML|CSS|JavaScript.
 
 <div align="center">
   <a href="https://github.com/JhoneMike">
@@ -14,7 +14,6 @@
   <img align="center" alt="Jhone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhone-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Jhone-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="right" alt="Jhone-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif">
 </div>  
   
  ##  
