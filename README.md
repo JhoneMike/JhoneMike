@@ -1,6 +1,6 @@
 ### Olá, eu sou o Jhone Mike
 
-- 🌱 Desenvolvedor Front-end HTML|CSS|JavaScript.
+- 🌱 Desenvolvedor Full Stack | Java | Oracle PL/SQL | HTML | CSS | JavaScript
 
 <div align="center">
   <a href="https://github.com/JhoneMike">
