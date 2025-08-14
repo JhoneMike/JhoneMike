@@ -1,6 +1,6 @@
 ### Olá, eu sou o Jhone Mike
 
-- 🌱 Desenvolvedor Full Stack | Java | Oracle PL/SQL | HTML | CSS | JavaScript
+- 🌱 Desenvolvedor Full Stack | Java | Oracle PL/SQL | HTML | CSS | JavaScript | JQuery
 
 <div align="center">
   <a href="https://github.com/JhoneMike">
@@ -9,12 +9,18 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jhone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jhone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jhone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jhone-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Jhone-jquery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-  <img align="center" alt="Jhone-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Jhone-HTML" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jhone-CSS" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jhone-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Jhone-jquery" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  <img align="center" alt="Jhone-java" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Jhone-php" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Jhone-oracle" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Jhone-vim" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+  <img align="center" alt="Jhone-bash" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img align="center" alt="Jhone-linux" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="Jhone-ubuntu" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+  <img align="center" alt="Jhone-fedora" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" />
 </div>  
   
  ##  
